@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 14, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started the 30-Day Vanilla JavaScript Coding Challenge today. I completed the first one which is a JS drum kit. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm going back to the basics of JavaScript because I feel like I need to strengthen the foundation I have.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** [JavaScript Drum Kit](https://github.com/nikkamille/JavaScript30/tree/master/01-js-drum-kit)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
