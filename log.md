@@ -8,14 +8,13 @@
 
 **Link(s) to work:** [JavaScript Drum Kit](https://github.com/nikkamille/JavaScript30/tree/master/01-js-drum-kit)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: June 16, 2021 (3:43 am)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I created a JS and CSS Clock by following the 2nd project of the 30-Day Vanilla JavaScript Coding Challenge.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Seems simple enough but I want to practice more.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [JS and CSS Clock](https://github.com/nikkamille/JavaScript30/tree/master/02-js-and-css-clock)
 
 
 ### Day 1: June 27, Monday
