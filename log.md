@@ -17,12 +17,12 @@
 **Link(s) to work**: [JS and CSS Clock](https://github.com/nikkamille/JavaScript30/tree/master/02-js-and-css-clock)
 
 
-### Day 1: June 27, Monday
+### Day 3: June 17, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I completed 2 LeetCode challenges today!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Baby steps. I'll eventually get there. :)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
+2. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
