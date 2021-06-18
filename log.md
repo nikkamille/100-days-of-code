@@ -16,7 +16,6 @@
 
 **Link(s) to work**: [JS and CSS Clock](https://github.com/nikkamille/JavaScript30/tree/master/02-js-and-css-clock)
 
-
 ### Day 3: June 17, 2021
 
 **Today's Progress**: I completed 2 LeetCode challenges today!
@@ -26,3 +25,12 @@
 **Link(s) to work**
 1. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 2. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
+
+### Day 4: June 18, 2021
+
+**Today's Progress**: I solved a LeetCode problem: Squares of a Sorted Array. I used the bubble sort algorithm.
+
+**Thoughts** It takes me a long time to solve these challenges.
+
+**Link(s) to work**
+1. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
