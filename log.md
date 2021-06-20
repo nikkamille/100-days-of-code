@@ -34,3 +34,12 @@
 
 **Link(s) to work**
 1. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+### Day 5: June 20, 2021 (1am)
+
+**Today's Progress**: I tried to solve a LeetCode problem: Duplicate Zeroes. I wasn't able to finish on time.
+
+**Thoughts** Try again.
+
+**Link(s) to work**
+1. [Duplicate Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
