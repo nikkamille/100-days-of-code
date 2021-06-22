@@ -37,9 +37,18 @@
 
 ### Day 5: June 20, 2021 (1am)
 
-**Today's Progress**: I tried to solve a LeetCode problem: Duplicate Zeroes. I wasn't able to finish on time.
+**Today's Progress**: I tried to solve a LeetCode problem: Duplicate Zeros. I wasn't able to finish on time.
 
 **Thoughts** Try again.
+
+**Link(s) to work**
+1. [Duplicate Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
+
+### Day 6: June 22, 2021 (1am)
+
+**Today's Progress**: I completed the Duplicate Zeros problem by using the splice() and pop() methods.
+
+**Thoughts** I still take a long time to solve a problem. I need to study algorithms and data structures more.
 
 **Link(s) to work**
 1. [Duplicate Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
