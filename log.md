@@ -52,3 +52,12 @@
 
 **Link(s) to work**
 1. [Duplicate Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
+
+### Day 7: June 23, 2021 (1:30am)
+
+**Today's Progress**: I solved the Merge Sorted Array LeetCode problem. I also started studying Wordpress Development and a little bit of PHP.
+
+**Thoughts** Practice. Practice. Practice.
+
+**Link(s) to work**
+1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
