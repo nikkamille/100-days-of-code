@@ -61,3 +61,12 @@
 
 **Link(s) to work**
 1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+### Day 8: June 24, 2021 (2am)
+
+**Today's Progress**: I tried to solve the Remove Element problem.
+
+**Thoughts** I wasn't able to solve the problem. I need more practice.
+
+**Link(s) to work**
+1. [Remove Element](https://leetcode.com/problems/remove-element/)
