@@ -70,3 +70,12 @@
 
 **Link(s) to work**
 1. [Remove Element](https://leetcode.com/problems/remove-element/)
+
+### Day 9: June 25, 2021 (2:30am)
+
+**Today's Progress**: I solved the Remove Element LeetCode problem.
+
+**Thoughts** I need to watch more videos on problem solving, algorithms, and data structures.
+
+**Link(s) to work**
+1. [Remove Element](https://leetcode.com/problems/remove-element/)
