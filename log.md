@@ -80,6 +80,15 @@
 **Link(s) to work**
 1. [Remove Element](https://leetcode.com/problems/remove-element/)
 
+### Day 10: June 26, 2021 (12:29am)
+
+**Today's Progress**: I solved the Remove Duplicates from Sorted Array LeetCode problem.
+
+**Thoughts** I solved the problem without Googling for help and in less time. I'm happy!
+
+**Link(s) to work**
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
 ### Day 11: June 27, 2021 (3am)
 
 **Today's Progress**: I solved the Sales by Match on HackerRank.
