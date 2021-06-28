@@ -98,4 +98,13 @@
 **Link(s) to work**
 1. [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
+### Day 12: June 28, 2021 (3:11am)
+
+**Today's Progress**: I solved the Counting Valleys problem on HackerRank.
+
+**Thoughts** I finished it faster than yesterday but I did read some of the discussion.
+
+**Link(s) to work**
+1. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+
 
