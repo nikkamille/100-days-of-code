@@ -107,4 +107,14 @@
 **Link(s) to work**
 1. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 
+### Day 13: June 30, 2021 (5:21am)
+
+**Today's Progress**: I solved the Jumping on the Clouds problem on HackerRank and Check If N and Its Double Exist on LeetCode.
+
+**Thoughts** I need to review and be able to tell the time and space complexity of the algorithms.
+
+**Link(s) to work**
+1. [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+2. [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+
 
