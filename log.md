@@ -117,4 +117,13 @@
 1. [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 2. [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 
+### Day 14: July 1, 2021
+
+**Today's Progress**: I'm working on the Repeated String problem on HackerRank. 
+
+**Thoughts** I got stuck on the problem. I will go back with a fresh mind.
+
+**Link(s) to work**
+1. [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
+
 
